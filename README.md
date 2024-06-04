@@ -1,0 +1,2 @@
+# FrontierForgeConf
+FrontierForge Launcher / Updates
